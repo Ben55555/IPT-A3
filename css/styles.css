@@ -27,7 +27,7 @@ h2 {
     font-weight: 400;
     font-size: 3em;
     text-align: center;
-    color: #E8CA00;
+    color: #A13941FF;
 }
 footer {
 	font-size: small;
@@ -77,7 +77,7 @@ header {
 	margin-top: 70px;
 }
 nav {
-	background-color: #EEEEEE;
+    background-color: #000000;
 }
 .navlist {
 	margin: 0px;
@@ -111,11 +111,11 @@ nav {
 	width: 100%;
 }
 caption1 {
-    color: #E8CA00;
-    font-family: cabin-sketch;
+    color: #A13941FF;
+    font-family: bowlby-one-sc;
     font-style: normal;
-    font-weight: 700;
-    font-size: 4em;
+    font-weight: 400;
+    font-size: 5em;
 }
 caption2 {
     font-family: brawler;
@@ -172,4 +172,7 @@ p {
 }
 .asideLeft img {
 	height: 300px;
+}
+.sectionright img{
+	height: 100px;
 }

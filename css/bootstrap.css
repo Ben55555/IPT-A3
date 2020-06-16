@@ -185,7 +185,7 @@ th {
   padding: 0;
 }
 title1 {
-    color: #E8CA00;
+    color: #A13941FF;
     font-family: cabin-sketch;
     font-style: normal;
     font-weight: 400;
@@ -199,7 +199,7 @@ h2 {
     font-size: large;
 }
 caption3 {
-    color: #E8CA00;
+    color: #A13941FF;
     font-family: cabin-sketch;
     font-style: normal;
     font-weight: 400;
@@ -274,7 +274,7 @@ caption3 {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #000000 !important;
   }
   .table-bordered th,
   .table-bordered td {
@@ -6776,3 +6776,9 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.facebook.com {
+}
+.link {
+}
+.url {
+}
